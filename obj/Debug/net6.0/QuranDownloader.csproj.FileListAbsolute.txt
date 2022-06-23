@@ -1,0 +1,15 @@
+C:\Coding\Ilmhub\Projects\QuranDownloader\bin\Debug\net6.0\QuranDownloader.exe
+C:\Coding\Ilmhub\Projects\QuranDownloader\bin\Debug\net6.0\QuranDownloader.deps.json
+C:\Coding\Ilmhub\Projects\QuranDownloader\bin\Debug\net6.0\QuranDownloader.runtimeconfig.json
+C:\Coding\Ilmhub\Projects\QuranDownloader\bin\Debug\net6.0\QuranDownloader.dll
+C:\Coding\Ilmhub\Projects\QuranDownloader\bin\Debug\net6.0\QuranDownloader.pdb
+C:\Coding\Ilmhub\Projects\QuranDownloader\obj\Debug\net6.0\QuranDownloader.csproj.AssemblyReference.cache
+C:\Coding\Ilmhub\Projects\QuranDownloader\obj\Debug\net6.0\QuranDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\Ilmhub\Projects\QuranDownloader\obj\Debug\net6.0\QuranDownloader.AssemblyInfoInputs.cache
+C:\Coding\Ilmhub\Projects\QuranDownloader\obj\Debug\net6.0\QuranDownloader.AssemblyInfo.cs
+C:\Coding\Ilmhub\Projects\QuranDownloader\obj\Debug\net6.0\QuranDownloader.csproj.CoreCompileInputs.cache
+C:\Coding\Ilmhub\Projects\QuranDownloader\obj\Debug\net6.0\QuranDownloader.dll
+C:\Coding\Ilmhub\Projects\QuranDownloader\obj\Debug\net6.0\refint\QuranDownloader.dll
+C:\Coding\Ilmhub\Projects\QuranDownloader\obj\Debug\net6.0\QuranDownloader.pdb
+C:\Coding\Ilmhub\Projects\QuranDownloader\obj\Debug\net6.0\QuranDownloader.genruntimeconfig.cache
+C:\Coding\Ilmhub\Projects\QuranDownloader\obj\Debug\net6.0\ref\QuranDownloader.dll
